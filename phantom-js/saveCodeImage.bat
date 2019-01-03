@@ -1,0 +1,1 @@
+phantomjs saveCodeImage.js "data/test.js" "img/test.png"
