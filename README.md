@@ -1,5 +1,5 @@
 # code-image-creator
-Converts code to an image
+Converts JavaScript code to an image
 
 ## Standalone Browser
 Open `index.html` to use the tool in a browser.
