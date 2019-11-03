@@ -1,6 +1,11 @@
 # code-image-creator
 Converts JavaScript code to an image
 
+* Green = Comments
+* Blue = Reserved Words 
+* Black = Code
+* White = Whitespace
+
 <img src="phantom-js/img/test.png" class="img-fluid" alt="">
 
 ## Standalone Browser
